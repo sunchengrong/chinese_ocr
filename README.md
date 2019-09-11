@@ -46,7 +46,7 @@ python train.py
 
 | val acc | predict | model |
 | -----------| ---------- | -----------|
-| 0.983 | 8ms | 18.9MB |
+| 0.9913 | 8ms | 19.8MB |
 
 * GPU: GTX TITAN X
 * Keras Backend: Tensorflow
